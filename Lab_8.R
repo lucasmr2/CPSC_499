@@ -1,7 +1,7 @@
 
 
 
-
+#this is lec 7 code
 
 function(x){
   return(length(x) <= 50)
