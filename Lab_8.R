@@ -3,6 +3,8 @@
 
 #this is lec 7 code
 
+#new comment
+
 function(x){
   return(length(x) <= 50)
 }
