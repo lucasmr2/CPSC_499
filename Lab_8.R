@@ -1,6 +1,4 @@
-
-
-
+#RJ edits to the code
 #this is lec 7 code
 
 #new comment
